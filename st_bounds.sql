@@ -1,4 +1,4 @@
-// based on https://github.com/mapbox/postgis-vt-util/commit/3eb19de59f0a9503c185f83aa03ca939b746f7ab
+-- based on https://github.com/mapbox/postgis-vt-util/commit/3eb19de59f0a9503c185f83aa03ca939b746f7ab
 
 /******************************************************************************
 ### Bounds ###
